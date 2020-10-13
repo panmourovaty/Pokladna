@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Pokladna\PokladnaFork-DH\PokladnaFork-DH\bin\Debug\netcoreapp3.1\PokladnaFork-DH.exe
+C:\Users\Administrator\Documents\Pokladna\PokladnaFork-DH\PokladnaFork-DH\obj\Debug\netcoreapp3.1\PokladnaFork-DH.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Pokladna\PokladnaFork-DH\PokladnaFork-DH\obj\Debug\netcoreapp3.1\PokladnaFork_DH.Form1.resources
+C:\Users\Administrator\Documents\Pokladna\PokladnaFork-DH\PokladnaFork-DH\obj\Debug\netcoreapp3.1\PokladnaFork-DH.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Pokladna\PokladnaFork-DH\PokladnaFork-DH\obj\Debug\netcoreapp3.1\PokladnaFork-DH.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Pokladna\PokladnaFork-DH\PokladnaFork-DH\obj\Debug\netcoreapp3.1\PokladnaFork-DH.AssemblyInfo.cs

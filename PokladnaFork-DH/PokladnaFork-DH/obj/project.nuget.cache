@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WlvF3tCXtIltKsdphlJ6CrIo0D8pPo8GdyLBOXm8h+jTPATUq7idLtjYPoZLwABCtyM7K9LDWMVFapCl90q4xg==",
+  "dgSpecHash": "szft1ZYriAsW/kipzv1liDHidmBZXuT+W64HbPeY3ryR6tkUekntw1v0feLHqnRCr9s1O0B7WZvSTAO+HB6o8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\Documents\\Pokladna\\PokladnaFork-DH\\PokladnaFork-DH\\PokladnaFork-DH.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
