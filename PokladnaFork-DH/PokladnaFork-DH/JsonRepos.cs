@@ -8,6 +8,11 @@ namespace Pokladna
 {
     public class JsonRepos : IRepos
     {
+        public void VytvorTestData()
+        {
+            List<PokladniZaznam> data = new List<PokladniZaznam>();
+            
+        }
         public List<PokladniZaznam> NactiVse()
         {
             throw new NotImplementedException();
